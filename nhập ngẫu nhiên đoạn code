@@ -1,4 +1,6 @@
 a= int(input(' nhap gia tri a='))
 b= int(input('nhap gia tri b='))
 tong= a+b
+tich= a*b
 print('xuat gia tri tong',tong)
+print('ket qua tich',tich)
